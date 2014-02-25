@@ -1,7 +1,8 @@
-package com.acme.doktoric.config;
+package com.sequenceiq.rabbit.config;
 
-import com.acme.doktoric.HelloWorldConfiguration;
-import com.acme.doktoric.handler.HelloWorldHandler;
+import com.sequenceiq.rabbit.HelloWorldConfiguration;
+import com.sequenceiq.rabbit.handler.HelloWorldHandler;
+
 import org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer;
 import org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter;
 import org.springframework.context.annotation.Bean;

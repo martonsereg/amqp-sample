@@ -1,4 +1,4 @@
-package com.acme.doktoric;
+package com.sequenceiq.rabbit;
 
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Queue;

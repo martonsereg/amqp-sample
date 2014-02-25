@@ -1,6 +1,7 @@
-package com.acme.doktoric.async;
+package com.sequenceiq.rabbit.async;
 
-import com.acme.doktoric.config.ProducerConfiguration;
+import com.sequenceiq.rabbit.config.ProducerConfiguration;
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class ProducerLauncher {

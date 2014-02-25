@@ -1,4 +1,4 @@
-package com.acme.doktoric.config;
+package com.sequenceiq.rabbit.config;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

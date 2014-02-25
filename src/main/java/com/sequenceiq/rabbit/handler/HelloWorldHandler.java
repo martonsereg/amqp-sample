@@ -1,4 +1,4 @@
-package com.acme.doktoric.handler;
+package com.sequenceiq.rabbit.handler;
 
 public class HelloWorldHandler {
 
