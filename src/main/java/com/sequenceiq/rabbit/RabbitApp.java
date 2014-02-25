@@ -12,8 +12,8 @@ public class RabbitApp {
 
         template.convertAndSend("myqueue", "foo");
 
-        String foo = (String) template.receiveAndConvert("myqueue");
-        System.out.println(foo);
+        // String foo = (String) template.receiveAndConvert("myqueue");
+        // System.out.println(foo);
     }
 
 }
